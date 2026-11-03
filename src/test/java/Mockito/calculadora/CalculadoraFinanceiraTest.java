@@ -1,7 +1,7 @@
-package calculadora;
+package Mockito.calculadora;
 
-import com.SoftwareTesting.java.calculaFinanceiro.CalculadoraFinanceira;
-import com.SoftwareTesting.java.calculaFinanceiro.ConversorDeMoeda;
+import com.softwareTesting.java.mockito.calculaFinanceiro.CalculadoraFinanceira;
+import com.softwareTesting.java.mockito.calculaFinanceiro.ConversorDeMoeda;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

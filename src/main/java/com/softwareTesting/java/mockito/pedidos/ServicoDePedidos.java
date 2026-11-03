@@ -1,4 +1,4 @@
-package com.SoftwareTesting.java.pedidos;
+package com.softwareTesting.java.mockito.pedidos;
 
 public class ServicoDePedidos {
 

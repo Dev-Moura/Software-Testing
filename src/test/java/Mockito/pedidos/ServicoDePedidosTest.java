@@ -1,8 +1,8 @@
-package pedidos;
+package Mockito.pedidos;
 
-import com.SoftwareTesting.java.pedidos.Pedidos;
-import com.SoftwareTesting.java.pedidos.RepositorioDePedidos;
-import com.SoftwareTesting.java.pedidos.ServicoDePedidos;
+import com.softwareTesting.java.mockito.pedidos.Pedidos;
+import com.softwareTesting.java.mockito.pedidos.RepositorioDePedidos;
+import com.softwareTesting.java.mockito.pedidos.ServicoDePedidos;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;

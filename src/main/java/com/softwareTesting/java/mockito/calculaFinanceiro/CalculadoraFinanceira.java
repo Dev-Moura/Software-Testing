@@ -1,4 +1,4 @@
-package com.SoftwareTesting.java.calculaFinanceiro;
+package com.softwareTesting.java.mockito.calculaFinanceiro;
 
 
 public class CalculadoraFinanceira {
